@@ -60,7 +60,7 @@
     "@frsource/cypress-plugin-visual-regression-diff": "^2.3.10",
     "@patternfly/patternfly": "4.202.1",
     "@redhat-cloud-services/eslint-config-redhat-cloud-services": "^1.2.3",
-    "@redhat-cloud-services/frontend-components-config": "^4.6.22",
+    "@redhat-cloud-services/frontend-components-config": "^4.6.34",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.2",
     "babel-jest": "28.1.1",

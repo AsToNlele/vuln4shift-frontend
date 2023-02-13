@@ -52,7 +52,7 @@
     "@babel/core": "7.18.5",
     "@babel/plugin-proposal-object-rest-spread": "7.18.0",
     "@babel/plugin-transform-runtime": "7.18.5",
-    "@babel/preset-env": "7.18.2",
+    "@babel/preset-env": "7.20.2",
     "@babel/preset-react": "7.17.12",
     "@cypress/code-coverage": "3.10.0",
     "@cypress/react": "6.2.0",

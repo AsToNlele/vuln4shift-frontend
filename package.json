@@ -63,7 +63,7 @@
     "@redhat-cloud-services/frontend-components-config": "^4.6.34",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.2",
-    "babel-jest": "28.1.1",
+    "babel-jest": "29.4.2",
     "babel-plugin-istanbul": "6.1.1",
     "babel-plugin-transform-imports": "^2.0.0",
     "cypress": "10.8.0",
